@@ -1,0 +1,5 @@
+*.suo
+*config*
+bin*
+*.vspscc
+Debug*
